@@ -7,7 +7,7 @@
 - <b>User Input and Interaction Practice</b>
   - [Capturing and Validating User Input in Python](https://github.com/GiovannyMontes/Terminal_Game)
 - <b>Data Structures Practice</b>
-  - [Using Linked Lists & UI to create Digital Contact List with Add/Delete functions in C++](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Using Linked Lists & UI to create Digital Contact List with Add/Delete functions in C++](https://github.com/GiovannyMontes/Digital_Contacts_App)
   
 <h2>🧑🏻‍🦱💻 IoT Projects:</h2>
 
