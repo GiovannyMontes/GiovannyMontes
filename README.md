@@ -25,7 +25,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="GiovannyMontes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="GiovannyMontes | YouTube" width="22px" src="https://www.clipartmax.com/png/middle/294-2941508_youtube-icon-youtube-logo-png.png" />][youtube]
 [<img align="left" alt="GiovannyMontes | LinkedIn" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCwUACCNgjG9oBA4SbI2pKPg
